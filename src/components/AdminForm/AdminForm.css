@@ -1,0 +1,29 @@
+.admin__label {
+	font-size: 24px;
+	color: aliceblue;
+	padding: 15px;
+}
+.admin__form {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 15px;
+}
+.admin__input {
+	font-size: 18px;
+	width: 80%;
+	border-radius: 10px;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+.admin__button {
+	color: aliceblue;
+	background: green;
+	border-radius: 10px;
+	padding: 10px;
+	margin-top: 20px;
+}
+.admin__form .button {
+	background: #05930c;
+}

@@ -1,0 +1,21 @@
+.page {
+	width: 75%;
+	background: #303030;
+	max-height: 900px;
+	overflow-y: scroll;
+	padding: 30px;
+	text-align: center;
+	border-radius: 15px;
+}
+.page__title,
+.page__content {
+	font-size: 36px;
+	color: aliceblue;
+	padding: 15px;
+}
+.page__title {
+	text-transform: uppercase;
+}
+.page__content {
+	font-size: 24px;
+}

@@ -1,0 +1,12 @@
+.button {
+	border: 1px solid #212121;
+	color: white;
+	border-radius: 10px;
+	padding: 10px;
+	margin-left: 10px;
+	background: #303030;
+}
+
+.delete {
+	background: rgb(150, 13, 13);
+}

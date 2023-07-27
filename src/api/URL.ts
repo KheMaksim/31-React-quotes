@@ -1,0 +1,1 @@
+export const BASE_URL = "https://exam8-f2039-default-rtdb.europe-west1.firebasedatabase.app/";

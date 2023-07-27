@@ -1,0 +1,17 @@
+.modal {
+	max-width: 700px;
+	width: 100%;
+	background-color: #5a5a5a;
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	box-shadow: 1px 1px 1px black;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 16px;
+	position: fixed;
+	left: calc(50% - 350px);
+	top: 30%;
+	z-index: 500;
+	transition: all 0.3s ease-out;
+}
